@@ -62,7 +62,8 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "http://recipe-webapp.s3-website-us-west-1.amazonaws.com"
+    "http://recipe-webapp.s3-website-us-west-1.amazonaws.com",
+    "https://dg75cvy7377x5.cloudfront.net/"
 ]
 
 
